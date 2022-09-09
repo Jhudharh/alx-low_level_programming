@@ -12,7 +12,7 @@ int main(void)
 	{
 		for (m = 19; m < 28; m++)
 		{
-			for (l = 20; l < 28; l++)
+			for (l = 27; l < 28; l++)
 			{
 				if (l > m && m > n)
 				{
