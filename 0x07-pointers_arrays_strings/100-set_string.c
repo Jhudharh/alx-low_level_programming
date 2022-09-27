@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * set_string - set string value of a pointer to a char
- * @s: pointer we need to set to
- * @to: string to set to
- *
+ * set_string - Entry point
+ * @s: input
+ * @to: input
+ * Return: Always 0 (Success)
  */
 void set_string(char **s, char *to)
 {
