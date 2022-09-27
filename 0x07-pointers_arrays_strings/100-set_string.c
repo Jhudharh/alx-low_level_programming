@@ -1,9 +1,14 @@
+/*
+ * File: 100-set_string.c
+ * Auth: Judah Itah
+ */
+
 #include "main.h"
 
 /**
- * set_string - sets the value of a pointer to a char
- * @s: pointer to pointer we need to set to
- * @to: string to set
+ * set_string - Sets the value of a pointer to a char.
+ * @s: The pointer.
+ * @to: The char.
  */
 void set_string(char **s, char *to)
 {
